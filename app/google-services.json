@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315073766922",
+    "project_id": "ejer01firebase",
+    "storage_bucket": "ejer01firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315073766922:android:2f025f61189aaa9fc3e1f3",
+        "android_client_info": {
+          "package_name": "pablo.conejos.chirivella.ejer01_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315073766922-cjft6bb55p6ikuq4s8lo4ih1lsgehd5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QeMIK0yoLsI7PAGHblfG8isPLAvJeEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315073766922-cjft6bb55p6ikuq4s8lo4ih1lsgehd5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
